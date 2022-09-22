@@ -1,6 +1,6 @@
 # Improved Marginal Unbiased Score Expansion (MUSE) via Implicit Differentiation
 
-Code to produce the plots from 
+Code to produce plots from http://arxiv.org/abs/2209.10512
 
 Usage:
 
